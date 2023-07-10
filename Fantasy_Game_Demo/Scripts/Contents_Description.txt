@@ -1,2 +1,0 @@
-*Scripts Folder*
-This folder contains custom script written by me, Hasan Corley, for use within the "Fantasy Game" demo. This script controls game behavior ranging from player movement to health bar behavior. Feel free to sample any of the code for personal use or reference.

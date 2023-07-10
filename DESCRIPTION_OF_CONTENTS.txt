@@ -1,0 +1,3 @@
+This directory contains a sample demo of a a 2d platformer I developed to showcase my skills. All of the script and most of the assets were custom made by me. I hope you enjoy this short sample and feel free to reuse any script or assets you wish.
+
+- Hasan Corley
