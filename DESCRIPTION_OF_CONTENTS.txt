@@ -1,3 +1,10 @@
-This directory contains a sample demo of a a 2d platformer I developed to showcase my skills. All of the script and most of the assets were custom made by me. I hope you enjoy this short sample and feel free to reuse any script or assets you wish.
+- This directory contains a sample demo of a a 2d platformer I developed to showcase my skills. All of the script and most of the assets were custom made by me. I hope you enjoy this short sample and feel free to reuse any script or assets you wish.
 
-- Hasan Corley
+- The majority  of the assets contained are custom made from scratch by me, the houses and the mountains were assets I found on the Unity store.
+
+***HOW TO INSTALL***
+- Download the zip file contained in this directory and extract all of its contents to run the demo. Feel free to use it for any means, and I hope you have fun!
+
+Thank you,
+
+- Hasan Corley (Developer)
